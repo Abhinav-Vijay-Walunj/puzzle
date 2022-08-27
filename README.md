@@ -6,6 +6,9 @@ Home Page:
 Select a Maze from given option:
 ![image](https://user-images.githubusercontent.com/64826301/187038325-de918b7e-2c6d-4dbd-8203-6473b0f8a92a.png)
 
+A start node able to get till End node so visualize path 
+![image](https://user-images.githubusercontent.com/64826301/187038325-de918b7e-2c6d-4dbd-8203-6473b0f8a92a.png)
+
 
 
 
